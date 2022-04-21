@@ -3,7 +3,7 @@
     "displayName": "Two Monokai Theme",
     "description": "Fork of the One Monokai theme",
     "version": "0.1.0",
-    "publisher": "kmnhan",
+    "publisher": "khan",
     "engines": {
         "vscode": "^1.13.0"
     },
