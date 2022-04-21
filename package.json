@@ -16,17 +16,17 @@
             {
                 "label": "Two Monokai",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Two-Monokai.json"
+                "path": "./themes/Two-Monokai-color-theme.json"
             },
             {
                 "label": "Two Monokai Darker",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Two-Monokai-darker.json"
+                "path": "./themes/Two-Monokai-darker-color-theme.json"
             },
             {
                 "label": "Two Monokai Flat",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Two-Monokai-flat.json"
+                "path": "./themes/Two-Monokai-flat-color-theme.json"
             }
         ]
     },
