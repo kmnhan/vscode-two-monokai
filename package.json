@@ -1,9 +1,9 @@
 {
-    "name": "one-monokai",
-    "displayName": "One Monokai Theme",
-    "description": "A cross between Monokai and One Dark theme",
-    "version": "0.5.0",
-    "publisher": "azemoh",
+    "name": "two-monokai",
+    "displayName": "Two Monokai Theme",
+    "description": "Fork of the One Monokai theme",
+    "version": "0.1.0",
+    "publisher": "kmnhan",
     "engines": {
         "vscode": "^1.13.0"
     },
@@ -14,26 +14,27 @@
     "contributes": {
         "themes": [
             {
-                "label": "One Monokai",
+                "label": "Two Monokai",
                 "uiTheme": "vs-dark",
-                "path": "./themes/OneMonokai-color-theme.json"
+                "path": "./themes/TwoMonokai-color-theme.json"
             }
         ]
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/azemoh/vscode-one-monokai.git"
+        "url": "https://github.com/kmnhan/vscode-two-monokai.git"
     },
     "bugs": {
-        "url": "https://github.com/azemoh/vscode-one-monokai/issues"
+        "url": "https://github.com/kmnhan/vscode-two-monokai/issues"
     },
-    "homepage": "https://github.com/azemoh/vscode-one-monokai/blob/master/README.md",
+    "homepage": "https://github.com/kmnhan/vscode-two-monokai/blob/master/README.md",
     "keywords": [
         "Vscode",
         "Theme",
         "Onedark",
-        "Monokai"
+        "Monokai",
+        "OneMonokai"
     ],
-    "author": "Joshua Azemoh <joshazemoh@gmail.com> (http://azemoh.com)",
+    "author": "Kimoon Han",
     "license": "MIT"
 }
