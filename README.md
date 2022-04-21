@@ -9,7 +9,7 @@ Fork of [One Monokai Theme](https://github.com/azemoh/vscode-one-monokai).
 
 press `ctl/command + p` to launch quick open then run
 ```
-ext install one-monokai
+ext install two-monokai
 ```
 
 ## Screenshot

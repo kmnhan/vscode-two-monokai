@@ -31,9 +31,6 @@
     "editorGutter.addedBackground": "#109868",
     "editorGutter.deletedBackground": "#9A353D",
     "editorGutter.modifiedBackground": "#948B60",
-    "editorOverviewRuler.addedBackground": "#109868",
-    "editorOverviewRuler.deletedBackground": "#9A353D",
-    "editorOverviewRuler.modifiedBackground": "#948B60",
     "editor.selectionBackground": "#67769660",
     "editor.selectionHighlightBackground": "#404859",
     "editor.selectionHighlightBorder": "#404859",
@@ -41,7 +38,6 @@
     "editor.wordHighlightBorder": "#7f848e",
     "editor.wordHighlightStrongBackground": "#abb2bf26",
     "editor.wordHighlightStrongBorder": "#7f848e",
-    "editorActiveLineNumber.foreground": "#737984",
     "editorBracketHighlight.foreground1": "#61afef",
     "editorBracketHighlight.foreground2": "#e5c07b",
     "editorBracketHighlight.foreground3": "#98c379",
@@ -49,7 +45,6 @@
     "editorBracketMatch.border": "#515a6b",
     "editorCursor.foreground": "#f8f8f0",
     "editorError.foreground": "#c24038",
-    "editorGroup.background": "#181a1f",
     "editorGroup.border": "#23252c",
     "editorGroup.emptyBackground": "#282c34",
     "editorGroupHeader.tabsBackground": "#282c34",
@@ -164,7 +159,6 @@
     "tree.indentGuidesStroke": "#343a45",
     "widget.shadow": "#23252c",
     "walkThrough.embeddedEditorBackground": "#2e3440",
-    "welcomePage.buttonHoverBackground": "#404754"
   },
   "tokenColors": [
     {
