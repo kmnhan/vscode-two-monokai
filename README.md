@@ -11,6 +11,9 @@ Fork of [One Monokai Theme](https://github.com/azemoh/vscode-one-monokai).
 ## Features
 - Updated most editor colors with the ones from [One Dark Pro Theme](https://github.com/Binaryify/OneDark-Pro.git), including a darker version and a flat version
 - Pair bracket colorization!
+  
+The colors used in this theme are mostly derived from [One Monokai Theme](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai) and [One Dark Pro Theme](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme).
+
 
 ## Install
 
@@ -24,8 +27,6 @@ Screenshot of Ruby and JavaScript
 
 ![Theme Screenshot](screenshot-v0.1.0.png)
 
-If you like this theme check out [One Monokai Theme](https://github.com/azemoh/vscode-one-monokai) and [One Dark Pro Theme](https://github.com/Binaryify/OneDark-Pro.git).
 
-
-## Change log
+## Changelog
 You can take a look at the change log [here](https://github.com/kmnhan/vscode-two-monokai/blob/master/CHANGELOG.md)
