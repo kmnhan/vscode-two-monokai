@@ -2,10 +2,13 @@
 
 Fork of [One Monokai Theme](https://github.com/azemoh/vscode-one-monokai).
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/khan.two-monokai.svg)](https://marketplace.visualstudio.com/items?itemName=khan.two-monokai)
-[![Installs](https://vsmarketplacebadge.apphb.com/installs/khan.two-monokai.svg)](https://marketplace.visualstudio.com/items?itemName=khan.two-monokai)
-[![Ratings](https://vsmarketplacebadge.apphb.com/rating/khan.two-monokai.svg)](https://marketplace.visualstudio.com/items?itemName=khan.two-monokai)
-<!-- [![GitHub stars](https://img.shields.io/github/stars/azemoh/vscode-one-monokai.svg?style=social&label=Star&maxAge=2592000)](https://github.com/azemoh/vscode-one-monokai) -->
+![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/khan.two-monokai.svg?style=for-the-badge&label=+Marketplace&logo=visualstudiocode&color=007ACC)
+![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/khan.two-monokai.svg?style=for-the-badge&color=007ACC)
+
+![Open VSX Version](https://img.shields.io/open-vsx/v/khan/two-monokai?style=for-the-badge&label=Open+VSX&color=9823DD)
+![Open VSX Downloads](https://img.shields.io/open-vsx/dt/khan/two-monokai?style=for-the-badge&color=9823DD)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/kmnhan/vscode-two-monokai?logo=github&style=for-the-badge)
 
 
 ## Features
